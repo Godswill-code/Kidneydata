@@ -4,11 +4,11 @@ import pandas as pd
 import pickle
 
 # Load the trained model
-with open(r'C:\Users\godsw\Documents\Group1projectsavant\best_model.pkl', 'rb') as f:
+with open(r'best_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 # Load the scaler
-with open(r'C:\Users\godsw\Documents\Group1projectsavant\scaler2.pkl', 'rb') as f:
+with open(r'scaler2.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
 # List of features (Ensure these are individual strings, not a nested list)
