@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+RandomForestClassifier
+pickle
+streamlit
+StandardScaler
