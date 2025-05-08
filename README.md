@@ -1,4 +1,4 @@
-# Kidneydata
+# Chronic Kidney Disease analysis
 A project aimed at assisting nephrologists (kidney specialists) to better diagnose and manage Chronic Kidney Disease (CKD). The project focuses on analyzing real patient data to uncover patterns and relationships that could lead to more accurate early detection of CKD, as well as understanding the risk factors for disease progression.
 ## Objective:
 The goal of the project is to analyze a dataset containing kidney function data and other health indicators to:
